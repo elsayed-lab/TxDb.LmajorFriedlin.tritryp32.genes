@@ -11,6 +11,6 @@ organism: Leishmania major strain Friedlin
 species: Leishmania major strain Friedlin
 provider: TriTrypDB
 provider_version: 32
-release_date: 2017-05-04 11:40:29 -0400 (Thu, 04 May 2017)
+release_date: 2017-05-12 08:23:38 -0400 (Fri, 12 May 2017)
 resource_url: http://tritrypdb.org/tritrypdb/
 biocViews: AnnotationData, Genetics, TxDb, Leishmania_major
